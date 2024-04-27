@@ -16,7 +16,7 @@ const App = () => (
   <div className="no-scrollbar w-full overflow-hidden bg-primary">
 
 
-    
+
     <div className={`${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
         <Navbar />
@@ -42,5 +42,4 @@ const App = () => (
     </div>
   </div>
 );
-
 export default App;
