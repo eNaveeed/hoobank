@@ -106,63 +106,78 @@ export const stats = [
 
 export const footerLinks = [
   {
+    id: nanoid(),
     title: "Useful Links",
     links: [
       {
+        id: nanoid(),
         name: "Content",
         link: "https://www.hoobank.com/content/",
       },
       {
+        id: nanoid(),
         name: "How it Works",
         link: "https://www.hoobank.com/how-it-works/",
       },
       {
+        id: nanoid(),
         name: "Create",
         link: "https://www.hoobank.com/create/",
       },
       {
+        id: nanoid(),
         name: "Explore",
         link: "https://www.hoobank.com/explore/",
       },
       {
+        id: nanoid(),
         name: "Terms & Services",
         link: "https://www.hoobank.com/terms-and-services/",
       },
     ],
   },
   {
+    id: nanoid(),
     title: "Community",
     links: [
       {
+        id: nanoid(),
         name: "Help Center",
         link: "https://www.hoobank.com/help-center/",
       },
       {
+        id: nanoid(),
         name: "Partners",
         link: "https://www.hoobank.com/partners/",
       },
       {
+        id: nanoid(),
         name: "Suggestions",
         link: "https://www.hoobank.com/suggestions/",
       },
       {
+        id: nanoid(),
         name: "Blog",
         link: "https://www.hoobank.com/blog/",
       },
       {
+        id: nanoid(),
         name: "Newsletters",
         link: "https://www.hoobank.com/newsletters/",
       },
     ],
   },
   {
+    id: nanoid(),
     title: "Partner",
     links: [
       {
+        id: nanoid(),
         name: "Our Partner",
         link: "https://www.hoobank.com/our-partner/",
       },
       {
+        id: nanoid(),
         name: "Become a Partner",
         link: "https://www.hoobank.com/become-a-partner/",
       },
@@ -172,22 +187,22 @@ export const footerLinks = [
 
 export const socialMedia = [
   {
-    id: "social-media-1",
+    id: nanoid(),
     icon: instagram,
     link: "https://www.instagram.com/",
   },
   {
-    id: "social-media-2",
+    id: nanoid(),
     icon: facebook,
     link: "https://www.facebook.com/",
   },
   {
-    id: "social-media-3",
+    id: nanoid(),
     icon: twitter,
     link: "https://www.twitter.com/",
   },
   {
-    id: "social-media-4",
+    id: nanoid(),
     icon: linkedin,
     link: "https://www.linkedin.com/",
   },
@@ -195,19 +210,19 @@ export const socialMedia = [
 
 export const clients = [
   {
-    id: "client-1",
+    id: nanoid(),
     logo: airbnb,
   },
   {
-    id: "client-2",
+    id: nanoid(),
     logo: binance,
   },
   {
-    id: "client-3",
+    id: nanoid(),
     logo: coinbase,
   },
   {
-    id: "client-4",
+    id: nanoid(),
     logo: dropbox,
   },
 ];
